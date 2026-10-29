@@ -1,0 +1,6 @@
+{
+  "name": "Aura PDF Reader Pro",
+  "description": "A futuristic, modern premium PDF reader with elegant gesture reading, dark and eye comfort modes, document tools, and instant file management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
